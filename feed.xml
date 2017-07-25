@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0B5CF4D7-D468-4BBF-856C-AC5100CCADB3</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-08-31T23:42:15-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:EA2E4FCC-48E1-4E8A-A52C-CBEFC6D84CEF</id>
+  <title>C. Monteleoni</title>
+  <title xmlns="urn:iweb:">C. Monteleoni</title>
+  <in-navbar xmlns="urn:iweb:">EA2E4FCC-48E1-4E8A-A52C-CBEFC6D84CEF</in-navbar>
+  <link rel="alternate" href="C._Monteleoni.html"/>
+  <updated>2015-08-31T23:42:15.001-04:00</updated>
+  <content>C. Monteleoni</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9A29A58F-B10E-4D36-9898-10E3B0C13595</id>
+  <title>research</title>
+  <title xmlns="urn:iweb:">research</title>
+  <in-navbar xmlns="urn:iweb:">9A29A58F-B10E-4D36-9898-10E3B0C13595</in-navbar>
+  <link rel="alternate" href="research.html"/>
+  <updated>2015-08-31T23:42:15.002-04:00</updated>
+  <content>research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C268DA9F-0D32-4287-88A1-AB14C15AD28C</id>
+  <title>climateInformatics</title>
+  <title xmlns="urn:iweb:">climateInformatics</title>
+  <in-navbar xmlns="urn:iweb:">C268DA9F-0D32-4287-88A1-AB14C15AD28C</in-navbar>
+  <link rel="alternate" href="climateInformatics.html"/>
+  <updated>2015-08-31T23:42:15.003-04:00</updated>
+  <content>climateInformatics</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D0A54002-9526-4499-BD85-E1D67ACF47F8</id>
+  <title>teaching</title>
+  <title xmlns="urn:iweb:">teaching</title>
+  <in-navbar xmlns="urn:iweb:">D0A54002-9526-4499-BD85-E1D67ACF47F8</in-navbar>
+  <link rel="alternate" href="teaching.html"/>
+  <updated>2015-08-31T23:42:15.004-04:00</updated>
+  <content>teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:122B4A13-36A9-4473-8304-45245A41D9A3</id>
+  <title>contact</title>
+  <title xmlns="urn:iweb:">contact</title>
+  <in-navbar xmlns="urn:iweb:">122B4A13-36A9-4473-8304-45245A41D9A3</in-navbar>
+  <link rel="alternate" href="contact.html"/>
+  <updated>2015-08-31T23:42:15.005-04:00</updated>
+  <content>contact</content>
+ </entry>
+</feed>
