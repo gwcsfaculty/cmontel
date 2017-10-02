@@ -84,11 +84,11 @@
     font-weight: 400;
     line-height: 16px;
 }
-.style_SkipStroke_1 {
+.style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke {
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -149,7 +149,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_654_2146 {
+.graphic_textbox_layout_style_default_External_654_2160 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
